@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585315778 source:f:\my-c-learnings\workspace\sumofcubesloop\main.c
+	<stdio.h>
+	<math.h>
+

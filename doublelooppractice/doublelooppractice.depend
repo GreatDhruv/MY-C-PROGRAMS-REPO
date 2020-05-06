@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585240528 source:f:\my-c-learnings\workspace\doublelooppractice\main.c
+	<stdio.h>
+	<stdlib.h>
+

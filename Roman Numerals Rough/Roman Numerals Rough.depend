@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586696264 source:f:\my-c-learnings\workspace\roman numerals rough\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585389422 source:f:\my-c-learnings\workspace\test5bg\main.c
+	<stdio.h>
+	<stdlib.h>
+
