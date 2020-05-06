@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585323461 source:f:\my-c-learnings\workspace\armstrongnumbertest\main.c
+	<stdio.h>
+	<stdlib.h>
+
